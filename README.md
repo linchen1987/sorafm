@@ -1,19 +1,19 @@
-# Sora.FM
+# Landing Page Demo
 
-Sora AI Video Generator
+A Landing Page Demo for teaching.
 
-## Live Demo
+The project is forked from [sorafm](https://github.com/all-in-aigc/sorafm)
 
-[https://sora.fm](https://sora.fm)
+## Credit to
 
-![preview](./preview.png)
+- [Sora FM](https://sora.fm/) Sora AI Video Generator
 
 ## Quick Start
 
 1. clone project
 
 ```shell
-git clone https://github.com/all-in-aigc/sorafm
+git clone https://github.com/linchen1987/sorafm.git
 ```
 
 2. install dependencies
@@ -47,17 +47,6 @@ pnpm dev --port 3000
 
 open `http://localhost:3000` for preview
 
-## Credit to
-
-- [aiwallpaper](https://aiwallpaper.shop) for code reference
-- [nextjs](https://nextjs.org/docs) for full-stack development
-- [node-postgres](https://node-postgres.com/) for data processing
-- [tailwindcss](https://tailwindcss.com/) for page building
-
 ## Other Things
 
-you can contact me at Twitter: https://twitter.com/idoubicc
-
-if this project is helpful to you, buy be a coffee.
-
-<a href="https://www.buymeacoffee.com/idoubi" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+you can contact me at Twitter: https://twitter.com/linklin1987
